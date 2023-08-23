@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ySECv3C76BEi4IBjTQ0afRNgxx01IQeG0J98S6wy2PQIJGk8HJHwRQCLKX5FqfNmvlcwvGmsUUUXw2zGDSeiow==",
+  "dgSpecHash": "yIDTDHZocBu7aV3DA6mQihf0YSX/ntoZmhEbyawI0+20VHLzGczvn9/h/UgC946FLYDdfkT4C0wteaWOygf15Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\SalesWinApp\\SalesWinApp.csproj",
+  "projectFilePath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\SalesWinApp\\SalesWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tung1\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Tung1\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

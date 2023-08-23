@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXXkZRq0YzxcBFZlPR6X4yJLI/XuMtK4w+yQ2FXupheLRciryeCdHd+K1wLagTXLpHkxaDU8ZGxUnV5oqWnDYg==",
+  "dgSpecHash": "HBenSDh1YxVW2VeQfBPi82emohVmMBuqDd8JI+xAroYP5/pa/7yII0ettz/Rn6BZALxeJ2qO7ZAMyhqMF2gYJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tung1\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Tung1\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -3479,11 +3479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\SalesWinApp\\SalesWinApp.csproj",
+      "projectUniqueName": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\SalesWinApp\\SalesWinApp.csproj",
       "projectName": "SalesWinApp",
-      "projectPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\SalesWinApp\\SalesWinApp.csproj",
+      "projectPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\SalesWinApp\\SalesWinApp.csproj",
       "packagesPath": "C:\\Users\\Tung1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\SalesWinApp\\obj\\",
+      "outputPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\SalesWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3504,11 +3504,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\BusinessObject\\BusinessObject.csproj"
+            "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\BusinessObject\\BusinessObject.csproj"
             },
-            "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\Project_PRN\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Tung1\\OneDrive\\Documents\\GitHub\\ShoppingSystem\\DataAccess\\DataAccess.csproj"
             }
           }
         }
